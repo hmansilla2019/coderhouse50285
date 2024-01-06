@@ -1,0 +1,17 @@
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\ReciboSueldo\bin\Debug\net6.0-windows\ReciboSueldo.exe
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\ReciboSueldo\bin\Debug\net6.0-windows\ReciboSueldo.deps.json
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\ReciboSueldo\bin\Debug\net6.0-windows\ReciboSueldo.runtimeconfig.json
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\ReciboSueldo\bin\Debug\net6.0-windows\ReciboSueldo.dll
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\ReciboSueldo\bin\Debug\net6.0-windows\ReciboSueldo.pdb
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\ReciboSueldo\obj\Debug\net6.0-windows\ReciboSueldo.csproj.AssemblyReference.cache
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\ReciboSueldo\obj\Debug\net6.0-windows\ReciboSueldo.Form1.resources
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\ReciboSueldo\obj\Debug\net6.0-windows\ReciboSueldo.csproj.GenerateResource.cache
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\ReciboSueldo\obj\Debug\net6.0-windows\ReciboSueldo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\ReciboSueldo\obj\Debug\net6.0-windows\ReciboSueldo.AssemblyInfoInputs.cache
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\ReciboSueldo\obj\Debug\net6.0-windows\ReciboSueldo.AssemblyInfo.cs
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\ReciboSueldo\obj\Debug\net6.0-windows\ReciboSueldo.csproj.CoreCompileInputs.cache
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\ReciboSueldo\obj\Debug\net6.0-windows\ReciboSueldo.dll
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\ReciboSueldo\obj\Debug\net6.0-windows\refint\ReciboSueldo.dll
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\ReciboSueldo\obj\Debug\net6.0-windows\ReciboSueldo.pdb
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\ReciboSueldo\obj\Debug\net6.0-windows\ReciboSueldo.genruntimeconfig.cache
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\ReciboSueldo\obj\Debug\net6.0-windows\ref\ReciboSueldo.dll

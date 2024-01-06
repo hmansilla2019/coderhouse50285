@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\_Hugo\\OneDrive\\Escritorio\\Comision50285\\Clase1Consola\\Clase1Consola.csproj": {}
+    "C:\\Users\\_Hugo\\OneDrive\\Documentos\\GitHub\\coderhouse50285\\Comision50285\\Clase1Consola\\Clase1Consola.csproj": {}
   },
   "projects": {
-    "C:\\Users\\_Hugo\\OneDrive\\Escritorio\\Comision50285\\Clase1Consola\\Clase1Consola.csproj": {
+    "C:\\Users\\_Hugo\\OneDrive\\Documentos\\GitHub\\coderhouse50285\\Comision50285\\Clase1Consola\\Clase1Consola.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\_Hugo\\OneDrive\\Escritorio\\Comision50285\\Clase1Consola\\Clase1Consola.csproj",
+        "projectUniqueName": "C:\\Users\\_Hugo\\OneDrive\\Documentos\\GitHub\\coderhouse50285\\Comision50285\\Clase1Consola\\Clase1Consola.csproj",
         "projectName": "Clase1Consola",
-        "projectPath": "C:\\Users\\_Hugo\\OneDrive\\Escritorio\\Comision50285\\Clase1Consola\\Clase1Consola.csproj",
+        "projectPath": "C:\\Users\\_Hugo\\OneDrive\\Documentos\\GitHub\\coderhouse50285\\Comision50285\\Clase1Consola\\Clase1Consola.csproj",
         "packagesPath": "C:\\Users\\_Hugo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\_Hugo\\OneDrive\\Escritorio\\Comision50285\\Clase1Consola\\obj\\",
+        "outputPath": "C:\\Users\\_Hugo\\OneDrive\\Documentos\\GitHub\\coderhouse50285\\Comision50285\\Clase1Consola\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

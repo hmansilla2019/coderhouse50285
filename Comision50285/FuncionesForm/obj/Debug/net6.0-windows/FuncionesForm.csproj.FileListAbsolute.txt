@@ -1,0 +1,17 @@
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\FuncionesForm\obj\Debug\net6.0-windows\FuncionesForm.csproj.AssemblyReference.cache
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\FuncionesForm\obj\Debug\net6.0-windows\FuncionesForm.Form1.resources
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\FuncionesForm\obj\Debug\net6.0-windows\FuncionesForm.csproj.GenerateResource.cache
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\FuncionesForm\obj\Debug\net6.0-windows\FuncionesForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\FuncionesForm\obj\Debug\net6.0-windows\FuncionesForm.AssemblyInfoInputs.cache
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\FuncionesForm\obj\Debug\net6.0-windows\FuncionesForm.AssemblyInfo.cs
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\FuncionesForm\obj\Debug\net6.0-windows\FuncionesForm.csproj.CoreCompileInputs.cache
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\FuncionesForm\bin\Debug\net6.0-windows\FuncionesForm.exe
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\FuncionesForm\bin\Debug\net6.0-windows\FuncionesForm.deps.json
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\FuncionesForm\bin\Debug\net6.0-windows\FuncionesForm.runtimeconfig.json
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\FuncionesForm\bin\Debug\net6.0-windows\FuncionesForm.dll
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\FuncionesForm\bin\Debug\net6.0-windows\FuncionesForm.pdb
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\FuncionesForm\obj\Debug\net6.0-windows\FuncionesForm.dll
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\FuncionesForm\obj\Debug\net6.0-windows\refint\FuncionesForm.dll
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\FuncionesForm\obj\Debug\net6.0-windows\FuncionesForm.pdb
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\FuncionesForm\obj\Debug\net6.0-windows\FuncionesForm.genruntimeconfig.cache
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\FuncionesForm\obj\Debug\net6.0-windows\ref\FuncionesForm.dll

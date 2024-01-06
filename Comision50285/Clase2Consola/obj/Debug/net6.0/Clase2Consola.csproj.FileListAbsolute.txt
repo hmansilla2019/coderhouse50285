@@ -1,0 +1,15 @@
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\Clase2Consola\bin\Debug\net6.0\Clase2Consola.exe
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\Clase2Consola\bin\Debug\net6.0\Clase2Consola.deps.json
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\Clase2Consola\bin\Debug\net6.0\Clase2Consola.runtimeconfig.json
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\Clase2Consola\bin\Debug\net6.0\Clase2Consola.dll
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\Clase2Consola\bin\Debug\net6.0\Clase2Consola.pdb
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\Clase2Consola\obj\Debug\net6.0\Clase2Consola.csproj.AssemblyReference.cache
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\Clase2Consola\obj\Debug\net6.0\Clase2Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\Clase2Consola\obj\Debug\net6.0\Clase2Consola.AssemblyInfoInputs.cache
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\Clase2Consola\obj\Debug\net6.0\Clase2Consola.AssemblyInfo.cs
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\Clase2Consola\obj\Debug\net6.0\Clase2Consola.csproj.CoreCompileInputs.cache
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\Clase2Consola\obj\Debug\net6.0\Clase2Consola.dll
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\Clase2Consola\obj\Debug\net6.0\refint\Clase2Consola.dll
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\Clase2Consola\obj\Debug\net6.0\Clase2Consola.pdb
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\Clase2Consola\obj\Debug\net6.0\Clase2Consola.genruntimeconfig.cache
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\Clase2Consola\obj\Debug\net6.0\ref\Clase2Consola.dll
