@@ -1,0 +1,17 @@
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\Usuario\bin\Debug\net6.0-windows\Usuario.exe
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\Usuario\bin\Debug\net6.0-windows\Usuario.deps.json
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\Usuario\bin\Debug\net6.0-windows\Usuario.runtimeconfig.json
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\Usuario\bin\Debug\net6.0-windows\Usuario.dll
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\Usuario\bin\Debug\net6.0-windows\Usuario.pdb
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\Usuario\obj\Debug\net6.0-windows\Usuario.csproj.AssemblyReference.cache
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\Usuario\obj\Debug\net6.0-windows\Usuario.Form1.resources
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\Usuario\obj\Debug\net6.0-windows\Usuario.csproj.GenerateResource.cache
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\Usuario\obj\Debug\net6.0-windows\Usuario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\Usuario\obj\Debug\net6.0-windows\Usuario.AssemblyInfoInputs.cache
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\Usuario\obj\Debug\net6.0-windows\Usuario.AssemblyInfo.cs
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\Usuario\obj\Debug\net6.0-windows\Usuario.csproj.CoreCompileInputs.cache
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\Usuario\obj\Debug\net6.0-windows\Usuario.dll
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\Usuario\obj\Debug\net6.0-windows\refint\Usuario.dll
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\Usuario\obj\Debug\net6.0-windows\Usuario.pdb
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\Usuario\obj\Debug\net6.0-windows\Usuario.genruntimeconfig.cache
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\Usuario\obj\Debug\net6.0-windows\ref\Usuario.dll
