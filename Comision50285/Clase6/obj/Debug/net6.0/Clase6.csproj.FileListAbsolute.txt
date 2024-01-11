@@ -1,0 +1,15 @@
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\Clase6\bin\Debug\net6.0\Clase6.exe
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\Clase6\bin\Debug\net6.0\Clase6.deps.json
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\Clase6\bin\Debug\net6.0\Clase6.runtimeconfig.json
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\Clase6\bin\Debug\net6.0\Clase6.dll
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\Clase6\bin\Debug\net6.0\Clase6.pdb
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\Clase6\obj\Debug\net6.0\Clase6.csproj.AssemblyReference.cache
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\Clase6\obj\Debug\net6.0\Clase6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\Clase6\obj\Debug\net6.0\Clase6.AssemblyInfoInputs.cache
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\Clase6\obj\Debug\net6.0\Clase6.AssemblyInfo.cs
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\Clase6\obj\Debug\net6.0\Clase6.csproj.CoreCompileInputs.cache
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\Clase6\obj\Debug\net6.0\Clase6.dll
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\Clase6\obj\Debug\net6.0\refint\Clase6.dll
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\Clase6\obj\Debug\net6.0\Clase6.pdb
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\Clase6\obj\Debug\net6.0\Clase6.genruntimeconfig.cache
+C:\Users\_Hugo\OneDrive\Documentos\GitHub\coderhouse50285\Comision50285\Clase6\obj\Debug\net6.0\ref\Clase6.dll
